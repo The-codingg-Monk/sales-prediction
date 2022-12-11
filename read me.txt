@@ -1,0 +1,3 @@
+In this project I had to predict the sales of Big Mart of different store. By this prediction Big Mart could supply required things before time hence it would be helpful to increase profit.
+
+Found based generalised model -- Random Forest
